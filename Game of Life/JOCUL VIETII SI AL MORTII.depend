@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640013923 source:d:\info\jocul vietii si al mortii\main.cpp
+	<fstream>
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
+1739490122 source:d:\info\clasele 9-12\jocul vietii si al mortii\main.cpp
+	<fstream>
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
